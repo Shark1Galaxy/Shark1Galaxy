@@ -5,12 +5,14 @@
 - 💻 Focado em me tornar um **Desenvolvedor Front-End**
 - 📍 Brasil
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosvinicius2030&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicius2030&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosvinicius2030&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinicius2030&layout=compact&theme=radical)
 
 ### 🛠️ Tecnologias que estou aprendendo:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,9 +20,8 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-<br>
-
 ### 📫 Contato:
+
 [![LinkedIn](https://img.shields.io/badge/-MarcosVinicius2030-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosvinicius2030)](https://www.linkedin.com/in/marcosvinicius2030)
 
 ---
