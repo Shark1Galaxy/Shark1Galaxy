@@ -35,7 +35,7 @@ Meu objetivo é me tornar um desenvolvedor **Front-End**, estou estudando **HTML
 
 ###
 
-<img align="right" height="174" src="https://i.pinimg.com/originals/a2/df/d4/a2dfd49b947c69c3588f50e8fb528a57.gif"  />
+<img align="right" height="174" src="https://tenor.com/pt-BR/view/eren-jaeger-eren-yeager-eren-attack-on-titan-attack-on-titan-season-4-gif-12811267161522894178"  />
 
 ###
 
