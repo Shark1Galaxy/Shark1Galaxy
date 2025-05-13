@@ -10,14 +10,6 @@ Meu objetivo é me tornar um desenvolvedor **Front-End**, estudando tecnologias 
 
 ### 🧠 Tecnologias que estou estudando:
 
-<img 
-  align="right" 
-  height="150" 
-  src="https://www.gifcen.com/wp-content/uploads/2021/08/eren-yeager-gif-3.gif" 
-  alt="Eren Yeager" 
-  style="border: 3px solid #ccc; border-radius: 8px;" 
-/>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
@@ -37,21 +29,34 @@ Meu objetivo é me tornar um desenvolvedor **Front-End**, estudando tecnologias 
 
 ### 😉 Formas de contato comigo!
 
-
+<table width="100%">
   <tr>
+    <!-- Coluna das badges -->
     <td valign="top">
+      <div align="left">
+        <a href="https://www.instagram.com/candidosharks" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram logo" />
+        </a>
+        <a href="mailto:marcostaekwondo2013@gmail.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail logo" />
+        </a>
+        <a href="https://www.linkedin.com/in/marcosvinicius2030" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn logo" />
+        </a>
+      </div>
+    </td>
+    <!-- Coluna do GIF -->
+    <td valign="top" align="right">
+      <img
+        src="https://www.gifcen.com/wp-content/uploads/2021/08/eren-yeager-gif-3.gif"
+        width="100"
+        alt="Eren Yeager"
+        style="border:3px solid #ccc; border-radius:8px; margin-top:4px;"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <a href="https://www.instagram.com/candidosharks" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="mailto:marcostaekwondo2013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcosvinicius2030" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
 
 ---
 
