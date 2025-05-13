@@ -46,6 +46,6 @@ Meu objetivo é me tornar um desenvolvedor **Front-End**, estou estudando **HTML
 
 ###
 
-<img src="https://raw.githubusercontent.com/shark1galaxy/shark1galaxy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/refs/heads/main/snake.yml" alt="Snake animation" />
 
 ###
