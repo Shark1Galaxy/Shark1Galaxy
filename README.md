@@ -2,9 +2,10 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Marcos Vinicius, tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
-Atualmente, estou focado no aprendizado da linguagem **C**, desenvolvendo minha lógica de programação e fundamentos da computação.  
-Meu objetivo é me tornar um desenvolvedor **Front-End**, estudando tecnologias como **HTML**, **CSS**, **JavaScript** e **React**.
+Olá! Meu nome é Marcos Vinicius, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+Atualmente, estou aprofundando meus estudos na linguagem C, desenvolvendo lógica de programação e fundamentos da computação.
+Meu foco atual é em Desenvolvimento Front-End com HTML, CSS, JavaScript e React, além de explorar Cibersegurança, aprendendo sobre segurança ofensiva e defesa digital.
+Tenho como objetivo futuro atuar como Técnico Judiciário – Área de TI, contribuindo com soluções seguras, eficientes e modernas para o setor público.
 
 ---
 
