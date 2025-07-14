@@ -3,13 +3,13 @@
 **`Desenvolvedor Front-End`**
 
 Olá! Meu nome é Marcos Vinicius, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, estudando tecnologias como HTML, CSS, JavaScript, React, Node.js e bancos de dados, com o objetivo de atuar tanto no front-end quanto no back-end.
+Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, estudando tecnologias como HTML, CSS, JavaScript, Node.js e etc, com o objetivo de atuar tanto no front-end quanto no back-end.
 
 ---
 
 ### 🧠 Tecnologias que estou estudando:
 
-<div align="left">
+<ul align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
@@ -20,9 +20,7 @@ Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, 
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-
-
-</div>
+</ul>
 
 ---
 
@@ -55,8 +53,6 @@ Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, 
     </td>
   </tr>
 </table>
-
-
 ---
 
 ### 📊 GitHub Stats
