@@ -4,7 +4,6 @@
 
 Olá! Meu nome é Marcos Vinicius, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
 Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, estudando tecnologias como HTML, CSS, JavaScript, React, Node.js e bancos de dados, com o objetivo de atuar tanto no front-end quanto no back-end.
-Além disso, tenho grande interesse na área de Cibersegurança, explorando conceitos de segurança ofensiva e defesa digital.
 
 ---
 
