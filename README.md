@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Olá! Meu nome é Marcos Vinicius, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-Atualmente, estou me preparando para me tornar um Desenvolvedor Web Full Stack, estudando tecnologias como HTML, CSS, JavaScript, Node.js e etc, com o objetivo de atuar tanto no front-end quanto no back-end.
+Atualmente, estou me preparando para me tornar um Desenvolvedor Front-End, estudando tecnologias como HTML, CSS, JavaScript, Node.js e etc, com o objetivo de atuar tanto no front-end quanto no back-end.
 
 ---
 
