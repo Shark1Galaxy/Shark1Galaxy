@@ -12,13 +12,14 @@
 
 ---
 
-<img align="right" alt="study gif" height="170px" src="">
+<img align="right" alt="study gif" height="150" src="gif/8fd97555b950f693151234f1e220cfd8.gif">
 
 ### 🌐 Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=50D4F2)](mailto:marcostaekwondo2013@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0C59F2)](https://www.linkedin.com/in/marcosvinicius2030)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/candidosharks)
+
 
 ---
 
