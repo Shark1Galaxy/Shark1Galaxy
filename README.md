@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="study gif" height="150" src="gif/8fd97555b950f693151234f1e220cfd8.gif](https://i.pinimg.com/originals/8f/d9/75/8fd97555b950f693151234f1e220cfd8.gif">
+<img align="right" alt="study gif" height="150" src="https://i.pinimg.com/originals/8f/d9/75/8fd97555b950f693151234f1e220cfd8.gif">
 
 ### 🌐 Conecte-se comigo
 
