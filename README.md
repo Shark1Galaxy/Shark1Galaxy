@@ -26,7 +26,7 @@
 
 <br clear="right"/>
 
----
+#
 
 <h3 align="left">🛠️ Minha Stack</h3>
 <div align="left">
