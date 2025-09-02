@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<p align="center">
+    <img alt="Eren Yeager Banner" src="https://i.pinimg.com/1200x/39/c8/3b/39c83be1026c990c9701500671482166.jpg">
+</p>
+
 #
 
 <p align="center">
@@ -12,17 +16,17 @@
 
 #
 
-<img align="right" alt="study gif" height="150" src="gif/8fd97555b950f693151234f1e220cfd8.gif">
+<img align="right" alt="Coding GIF" height="190px" src="https://i.pinimg.com/736x/e9/ee/c5/e9eec5ed9a883498f7c5ba1ed3c27fdc.jpg">
 
-### 🌐 Conecte-se comigo
+<h3 align="left">🌐 Conecte-se comigo</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=50D4F2)](mailto:marcostaekwondo2013@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0C59F2)](https://www.linkedin.com/in/marcosvinicius2030)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/candidosharks)
 
-#
+<br clear="right"/>
 
-### 🛠️ Minha Stack
+<h3 align="left">🛠️ Minha Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
@@ -42,19 +46,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
 </div>
 
----
+#
 
 <div style="text-align: center;" align="center">
   <h3>* 📊 GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shark1galaxy&show_icons=true&bg_color=000000&title_color=0C59F2&text_color=50D4F2&icon_color=4BB2F2&border_color=1B8EF2&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shark1galaxy&layout=compact&langs_count=5&bg_color=000000&title_color=0C59F2&text_color=50D4F2&icon_color=4BB2F2&border_color=1B8EF2&locale=pt-br" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shark1galaxy&show_icons=true&bg_color=000&title_color=0C59F2&text_color=50D4F2&border_radius=3&border_color=1B8EF2&icon_color=4BB2F2&locale=pt-br" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark1galaxy&layout=compact&langs_count=5&bg_color=000&title_color=0C59F2&text_color=50D4F2&border_radius=3&border_color=1B8EF2&locale=pt-br" alt="Most Used Languages">
 </div>
 
----
+#
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shark1Galaxy/Shark1Galaxy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
